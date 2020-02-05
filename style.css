@@ -1,0 +1,13 @@
+img{
+    height: auto;
+    max-width: 100%;
+}
+html {
+	background-color:#eaf7ff;
+	color:rgb(0, 0, 0)
+}
+a{
+	color: rgb(0, 111, 223);
+	max-width: 100%;
+	cursor: pointer;
+}
